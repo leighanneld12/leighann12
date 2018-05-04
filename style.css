@@ -1,0 +1,14 @@
+div.review {
+	background-color: #E6EBF5; /* pale green */
+	border: 10px solid #003399; /* black */
+}
+p.summary {
+	font-style: bold;
+width: 40%
+}
+
+overview {
+	font: italic;
+padding: 10em;
+color: red;
+}
