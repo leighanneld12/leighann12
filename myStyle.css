@@ -5,15 +5,15 @@ body {
 	padding: 1em;
 	margin: 0px;
 }
-ul {
+ul#nav {
     list-style-type: none;
     margin: 0;
     padding: 0;
 } 
-li {
+li#nav {
     display: inline;
 } 
-li {
+li#nav {
     float: left;
 }
 
