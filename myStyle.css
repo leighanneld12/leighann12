@@ -1,57 +1,57 @@
- body {
+ body{
 	background-color: black;
-	color: blue;
+	color: purple;
 	border: 2px red;
 	padding: 1em;
 	margin: 0px;
 	font-family: arial; helvetica; sans-serif;
 }
-ul#nav {
+ul#nav{
     list-style-type: none;
     margin: 0;
     padding: 0;
 } 
-li#nav {
+li#nav{
     display: inline;
 } 
-li#nav {
+li#nav{
     float: left;
 }
 
-a {
+a{
     display: block;
     padding: 8px;
     background-color: #dddddd;
 }
-h4 {
+h4{
 	font-size: 25px;
 }
-h5 {
+h5{
 	font-size:25px;
 }
-div#skipnav {
+div#skipnav{
 	top: 5px;
 	left: 5px;
 	position: relative;
 	right: 12.5%;
 }
-div.info { 
+div.info{ 
 width: 40%;
 font-size: 1.2em;
 float: left;
 }
- nav {
+ nav{
 	clear: left;
 }
 /* navigation menu styles */
-nav ul {
+nav ul{
 	list-style-type: none;
 }
-nav ul li {
+nav ul li{
 	float: left;
 	margin-right: 0.5em;
 }
-nav ul li a {
+nav ul li a{
 	padding: 0.25em 1em;
 	text-decoration: none; /* no underline */
 	background-color: #EBF5FF; /* pale bluish white */
@@ -66,7 +66,7 @@ nav ul li a: hover, nav ul li a:focus{
 	font-weight: bold;
 	clear: left;
 }
-    div#clock { 
+    div#clock{ 
       /* your style declarations go here */
     }
 
