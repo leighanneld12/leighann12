@@ -4,7 +4,7 @@ body {
 	border: 2px red;
 	padding: 1em;
 	margin: 0px;
-	font-family: arial, helvetica, sans-serif;
+	font-family: arial; helvetica; sans-serif;
 }
 ul#nav {
     list-style-type: none;
@@ -35,7 +35,7 @@ div#skipnav {
 	position: relative;
 	right: 12.5%;
 }
-div.info{ 
+div.info { 
 width: 40%;
 font-size: 1.2em;
 float: left;
