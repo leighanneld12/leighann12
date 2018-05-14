@@ -1,10 +1,10 @@
  body{
-	background-color: black;
+	background-color: red;
 	color: purple;
-	border: 2px red;
+	border: 2px black;
 	padding: 1em;
 	margin: 0px;
-	font-family: arial; helvetica; sans-serif;
+	font-family: italic; helvetica; sans-serif;
 }
 ul#nav{
     list-style-type: none;
